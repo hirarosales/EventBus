@@ -3,6 +3,7 @@ EventBus
 [EventBus](https://greenrobot.org/eventbus/) is a publish/subscribe event bus for Android and Java.<br/>
 <img src="EventBus-Publish-Subscribe.png" width="500" height="187"/>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8136bc7290754934a7912e40cea6f794)](https://app.codacy.com/gh/hirarosales/EventBus?utm_source=github.com&utm_medium=referral&utm_content=hirarosales/EventBus&utm_campaign=Badge_Grade)
 [![Build Status](https://github.com/greenrobot/EventBus/actions/workflows/gradle.yml/badge.svg)](https://github.com/greenrobot/EventBus/actions)
 [![Follow greenrobot on Twitter](https://img.shields.io/twitter/follow/greenrobot_de.svg?style=flat-square&logo=twitter)](https://twitter.com/greenrobot_de)
 
